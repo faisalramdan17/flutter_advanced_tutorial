@@ -1,4 +1,4 @@
-package com.example.flutter_daily_tutorial
+package com.example.flutter_advanced_tutorial
 
 import io.flutter.embedding.android.FlutterActivity
 

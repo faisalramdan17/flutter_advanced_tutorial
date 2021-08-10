@@ -1,4 +1,4 @@
-# flutter_daily_tutorial
+# flutter_advanced_tutorial
 
 A new Flutter project.
 

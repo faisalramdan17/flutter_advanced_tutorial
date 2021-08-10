@@ -5,12 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter_daily_tutorial",
+            "name": "flutter_advanced_tutorial",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "flutter_daily_tutorial (profile mode)",
+            "name": "flutter_advanced_tutorial (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"

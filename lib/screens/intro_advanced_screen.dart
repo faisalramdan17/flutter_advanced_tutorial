@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_daily_tutorial/main.dart';
+import 'package:flutter_advanced_tutorial/main.dart';
 import 'package:introduction_screen/introduction_screen.dart';
 
 class IntroAdvancedScreen extends StatefulWidget {
