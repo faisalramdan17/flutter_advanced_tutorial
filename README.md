@@ -18,20 +18,24 @@ samples, guidance on mobile development, and a full API reference.
 # Video Flutter Advanced Tutorial
 1. Splash Screen : https://youtu.be/ZmsYzYBp3yU
 
-SUBSRIBE → https://bit.ly/3ymJhMh
-
-SOURCE CODE  → https://codingyourlife.gumroad.com/l/flutter-advanced-tutorial
-
-PACKAGE → https://pub.dev/packages/flutter_native_splash
 
 # Others Video Tutorial
+- Flutter Tips & Tricks (Part 1) : https://youtu.be/XNOOdBf9Xgs
 - Rental Car App (Part 1)  : https://youtu.be/xrdqsEdLqrQ
 - Rental Car App (Part 2)  : https://youtu.be/fvpmo7MhIkc
 
+# PACKAGES
+- flutter_native_splash : → https://pub.dev/packages/flutter_native_splash
+
 # SUPPORT ME
-Download My Apps → https://codingyourlife.gumroad.com
-Buy Me a Coffee → https://www.buymeacoffee.com/faisalramdan17
-My Portfolio → https://codecanyon.net/user/codingyourlife/portfolio
+
+Our mission at Coding Your Life is to help purpose driven Flutter developers go full-time doing what they love and making an impact through coding. We achieve this with useful Flutter tips and clean UI design apps.
+
+SUBSRIBE → https://bit.ly/3ymJhMh
+
+- Download My Apps → https://codingyourlife.gumroad.com
+- Buy Me a Coffee → https://www.buymeacoffee.com/faisalramdan17
+- My Portfolio → https://codecanyon.net/user/codingyourlife/portfolio
 
 # SOCIAL MEDIA
 - Personal → https://www.instagram.com/faisalramdan17 
